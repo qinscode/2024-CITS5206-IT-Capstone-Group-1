@@ -45,7 +45,7 @@ pip install pytest
 * Then run the following command:
 
 ~~~bash
-pytest tests/
+pytest ./
 ~~~
 
 *Note: This would run all the test files present in the folder `tests/`.*
